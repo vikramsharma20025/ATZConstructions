@@ -1,0 +1,34 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "heading": "Commercial & Industrial Construction",
+            "para": "Mefford Contracting specializes in commercial and industrial construction, while focusing on safety, quality, and customer satisfaction.",
+            "img": "/images/services/Construction-600x400.jpg"
+        },
+        {
+            "id": 2,
+            "heading": "Design Build",
+            "para": "Through our unique partnership with Dehart Architecture, we offer architectural design services. We can help refine and revise your initial designs then build a structure that meets all your needs.",
+            "img": "/images/services/Build-600x400.jpg"
+        },
+        {
+            "id": 3,
+            "heading": "Construction Management",
+            "para": "You provide the architectural plans, and we build to your specifications providing project management and oversight. Our Project Managers and Site Superintendents manage schedules, material procurement, budget, quality assurance, safety, and subcontractor activity.",
+            "img": "/images/services/FinishedPro1-600x400.jpg"
+        },
+        {
+            "id": 4,
+            "heading": "Self Perform",
+            "para": "We provide general contracting services including drywall, framing, painting, and concrete, and function as the general contractor managing the project and subcontractors.",
+            "img": "/images/services/Drywall-600x400.jpg"
+        },
+        {
+            "id": 5,
+            "heading": "Safety Is Our Priority",
+            "para": "Keeping the worksite safe for our crew, subcontractors and our partners is our main concern. Our team of highly skilled and experienced construction professionals follow OSHA guidelines and go beyond to ensure a safe work environment. We train our employees on the most up to date safety protocols and have a dedicated safety representative.",
+            "img": "/images/services/Safe-600x400.jpg"
+        }
+    ]
+}

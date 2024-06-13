@@ -1,0 +1,109 @@
+{
+    "data": [
+        {
+            "id": "1",
+            "name": "John Doe 1",
+            "designation": "CEO",
+            "email": "vivek@gmail.com",
+            "img": "/images/teams/Team_memeber-400x360.jpg"
+        },
+        {
+            "id": "2",
+            "name": "John Doe 2",
+            "designation": "CEO",
+            "email": "vivek@gmail.com",
+            "img": "/images/teams/Team_memeber-400x360.jpg"
+        },
+        {
+            "id": "3",
+            "name": "John Doe 3",
+            "designation": "CEO",
+            "email": "vivek@gmail.com",
+            "img": "/images/teams/Team_memeber-400x360.jpg"
+        },
+        {
+            "id": "4",
+            "name": "John Doe 4",
+            "designation": "CEO",
+            "email": "vivek@gmail.com",
+            "img": "/images/teams/Team_memeber-400x360.jpg"
+        },
+        {
+            "id": "5",
+            "name": "John Doe 5",
+            "designation": "CEO",
+            "email": "vivek@gmail.com",
+            "img": "/images/teams/Team_memeber-400x360.jpg"
+        },
+        {
+            "id": "6",
+            "name": "John Doe 6",
+            "designation": "CEO",
+            "email": "vivek@gmail.com",
+            "img": "/images/teams/Team_memeber-400x360.jpg"
+        },
+        {
+            "id": "7",
+            "name": "John Doe 7",
+            "designation": "CEO",
+            "email": "vivek@gmail.com",
+            "img": "/images/teams/Team_memeber-400x360.jpg"
+        },
+        {
+            "id": "8",
+            "name": "John Doe 8",
+            "designation": "CEO",
+            "email": "vivek@gmail.com",
+            "img": "/images/teams/Team_memeber-400x360.jpg"
+        },
+        {
+            "id": "9",
+            "name": "John Doe 9",
+            "designation": "CEO",
+            "email": "vivek@gmail.com",
+            "img": "/images/teams/Team_memeber-400x360.jpg"
+        },
+        {
+            "id": "10",
+            "name": "John Doe 10",
+            "designation": "CEO",
+            "email": "vivek@gmail.com",
+            "img": "/images/teams/Team_memeber-400x360.jpg"
+        },
+        {
+            "id": "11",
+            "name": "John Doe 11",
+            "designation": "CEO",
+            "email": "vivek@gmail.com",
+            "img": "/images/teams/Team_memeber-400x360.jpg"
+        },
+        {
+            "id": "12",
+            "name": "John Doe 12",
+            "designation": "CEO",
+            "email": "vivek@gmail.com",
+            "img": "/images/teams/Team_memeber-400x360.jpg"
+        },
+        {
+            "id": "13",
+            "name": "John Doe 13",
+            "designation": "CEO",
+            "email": "vivek@gmail.com",
+            "img": "/images/teams/Team_memeber-400x360.jpg"
+        },
+        {
+            "id": "14",
+            "name": "John Doe 14",
+            "designation": "CEO",
+            "email": "vivek@gmail.com",
+            "img": "/images/teams/Team_memeber-400x360.jpg"
+        },
+        {
+            "id": "15",
+            "name": "John Doe 15",
+            "designation": "CEO",
+            "email": "vivek@gmail.com",
+            "img": "/images/teams/Team_memeber-400x360.jpg"
+        }
+    ]
+}

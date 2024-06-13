@@ -1,0 +1,23 @@
+@keyframes spring {
+    0%{
+        width: 0;
+    }
+    25%{
+        width: calc(min-content/2);
+    }
+    50%{
+        width: min-content;
+    }
+    75%{
+        width: calc(min-content/2);
+    }
+    100%{
+        width: 0;
+    }
+}
+
+.animatespring {
+    overflow: hidden;
+    animation: spring 2s linear infinite;
+    border-right: 1px solid white;
+}

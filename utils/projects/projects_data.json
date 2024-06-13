@@ -1,0 +1,213 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "The Hagerman Apartments",
+            "category": [
+                "Commercial",
+                "Multi-Family",
+                ""
+            ],
+            "img": "/images/Projects _ Mefford Contracting/1.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Louisville Locker Room Facility",
+            "category": [
+                "Commercial",
+                "Offices"
+            ],
+            "img": "/images/Projects _ Mefford Contracting/2.jpg"
+        },
+        {
+            "id": 3,
+            "name": "North Limestone Apartments",
+            "category": [
+                "Commercial",
+                "Multi-Family"
+            ],
+            "img": "/images/Projects _ Mefford Contracting/3.webp"
+        },
+        {
+            "id": 4,
+            "name": "Growers",
+            "category": ["Industrial"],
+            "img": "/images/Projects _ Mefford Contracting/4.jpg"
+        },
+        {
+            "id": 5,
+            "name": "The Hagerman Apartments",
+            "category": [
+                "Commercial",
+                "Multi-Family"
+            ],
+            "img": "/images/Projects _ Mefford Contracting/5.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Louisville Locker Room Facility",
+            "category": [
+                "Commercial",
+                "Offices"
+            ],
+            "img": "/images/Projects _ Mefford Contracting/6.jpg"
+        },
+        {
+            "id": 7,
+            "name": "North Limestone Apartments",
+            "category": [
+                "Commercial",
+                "Multi-Family"
+            ],
+            "img": "/images/Projects _ Mefford Contracting/7.jpg"
+        },
+        {
+            "id": 8,
+            "name": "Growers",
+            "category": ["Industrial","Hospitality"],
+            "img": "/images/Projects _ Mefford Contracting/8.jpg"
+        },
+        {
+            "id": 9,
+            "name": "The Hagerman Apartments",
+            "category": [
+                "Commercial",
+                "Multi-Family"
+            ],
+            "img": "/images/Projects _ Mefford Contracting/9.jpg"
+        },
+        {
+            "id": 10,
+            "name": "Louisville Locker Room Facility",
+            "category": [
+                "Commercial",
+                "Offices"
+            ],
+            "img": "/images/Projects _ Mefford Contracting/10.jpg"
+        },
+        {
+            "id": 11,
+            "name": "North Limestone Apartments",
+            "category": [
+                "Commercial",
+                "Multi-Family",
+                "Hospitality"
+            ],
+            "img": "/images/Projects _ Mefford Contracting/11.jpg"
+        },
+        {
+            "id": 12,
+            "name": "Growers",
+            "category": ["Industrial","Restaurant"],
+            "img": "/images/Projects _ Mefford Contracting/12.jpg"
+        },
+        {
+            "id": 13,
+            "name": "The Hagerman Apartments",
+            "category": [
+                "Commercial",
+                "Multi-Family"
+            ],
+            "img": "/images/Projects _ Page 2 _ Mefford Contracting/1.jpg"
+        },
+        {
+            "id": 14,
+            "name": "Louisville Locker Room Facility",
+            "category": [
+                "Commercial",
+                "Offices"
+            ],
+            "img": "/images/Projects _ Page 2 _ Mefford Contracting/2.jpg"
+        },
+        {
+            "id": 15,
+            "name": "North Limestone Apartments",
+            "category": [
+                "Commercial",
+                "Multi-Family"
+            ],
+            "img": "/images/Projects _ Page 2 _ Mefford Contracting/3.jpg"
+        },
+        {
+            "id": 16,
+            "name": "Growers",
+            "category": ["Industrial"],
+            "img": "/images/Projects _ Page 2 _ Mefford Contracting/4.jpg"
+        },
+        {
+            "id": 17,
+            "name": "The Hagerman Apartments",
+            "category": [
+                "Commercial",
+                "Multi-Family"
+            ],
+            "img": "/images/Projects _ Page 2 _ Mefford Contracting/5.jpg"
+        },
+        {
+            "id": 18,
+            "name": "Louisville Locker Room Facility",
+            "category": [
+                "Commercial",
+                "Offices"
+            ],
+            "img": "/images/Projects _ Page 2 _ Mefford Contracting/6.jpg"
+        },
+        {
+            "id": 19,
+            "name": "North Limestone Apartments",
+            "category": [
+                "Commercial",
+                "Multi-Family"
+            ],
+            "img": "/images/Projects _ Page 2 _ Mefford Contracting/7.jpg"
+        },
+        {
+            "id": 20,
+            "name": "Growers",
+            "category": ["Industrial"],
+            "img": "/images/Projects _ Page 2 _ Mefford Contracting/8.jpg"
+        },
+        {
+            "id": 21,
+            "name": "The Hagerman Apartments",
+            "category": [
+                "Commercial",
+                "Multi-Family"
+            ],
+            "img": "/images/Projects _ Page 2 _ Mefford Contracting/9.jpg"
+        },
+        {
+            "id": 22,
+            "name": "Louisville Locker Room Facility",
+            "category": [
+                "Commercial",
+                "Offices"
+            ],
+            "img": "/images/Projects _ Page 2 _ Mefford Contracting/10.jpg"
+        },
+        {
+            "id": 23,
+            "name": "North Limestone Apartments",
+            "category": [
+                "Commercial",
+                "Multi-Family"
+            ],
+            "img": "/images/Projects _ Page 2 _ Mefford Contracting/11.jpg"
+        },
+        {
+            "id": 24,
+            "name": "Growers",
+            "category": ["Industrial"],
+            "img": "/images/Projects _ Page 2 _ Mefford Contracting/12.jpg"
+        }
+    ],
+    "categories": [
+        "All",
+        "Commercial",
+        "Multi-Family",
+        "Industrial",
+        "Offices",
+        "Hospitality",
+        "Restaurant"
+    ]
+}
