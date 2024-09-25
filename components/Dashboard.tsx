@@ -2,6 +2,8 @@ import React from 'react'
 import Expertise from './Expertise/Expertise'
 import Services from './Services/Services'
 import AtA73Studio from './AtA73Studio/AtA73Studio'
+import CommitedToSafety from './CommitedToSafety/CommitedToSafety'
+import FeaturedProject from './FeaturesProject/FeaturedProject'
 
 const Dashboard = () => {
 	return (
@@ -9,8 +11,10 @@ const Dashboard = () => {
 			<Expertise />
 			<Services />
 			<AtA73Studio />
+			<CommitedToSafety />
+			<FeaturedProject />
 		</div>
 	)
 }
 
-export default Dashboard
+export default Dashboard;

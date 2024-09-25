@@ -3,12 +3,31 @@
         {
             "id": 1,
             "name": "The Hagerman Apartments",
+            "desc": "The recently completed remodel allows for 21 luxury apartments comprised of 1 and 2 bedroom units, elevator access, outdoor living space, and modern amenities, all while preserving and highlighting the historical integrity and character of the building. Additionally, the property includes approximately 3⁄4 acres of vacant land behind the existing structure. This land allows for the construction of approximately 12 additional multi-family units, which under current plans would incorporate a more modern contemporary style of design and architecture. The exterior will also get a facelift, ramp, and new stairs will be added.",
             "category": [
                 "Commercial",
-                "Multi-Family",
-                ""
+                "Multi-Family"
             ],
-            "img": "/images/Projects _ Mefford Contracting/1.jpg"
+            "img": "/images/Projects _ Mefford Contracting/1.jpg",
+            "more": {
+                "location": "Lexington, KY",
+                "size": "100,000 sq ft",
+                "budget": "$10,000,000",
+                "images": [
+                    "/images/Projects _ Mefford Contracting/1.jpg",
+                    "/images/Projects _ Mefford Contracting/2.jpg",
+                    "/images/Projects _ Mefford Contracting/3.webp",
+                    "/images/Projects _ Mefford Contracting/4.jpg",
+                    "/images/Projects _ Mefford Contracting/5.jpg",
+                    "/images/Projects _ Mefford Contracting/6.jpg",
+                    "/images/Projects _ Mefford Contracting/7.jpg",
+                    "/images/Projects _ Mefford Contracting/8.jpg",
+                    "/images/Projects _ Mefford Contracting/9.jpg",
+                    "/images/Projects _ Mefford Contracting/10.jpg",
+                    "/images/Projects _ Mefford Contracting/11.jpg",
+                    "/images/Projects _ Mefford Contracting/12.jpg"
+                ]
+            }
         },
         {
             "id": 2,
@@ -17,7 +36,26 @@
                 "Commercial",
                 "Offices"
             ],
-            "img": "/images/Projects _ Mefford Contracting/2.jpg"
+            "img": "/images/Projects _ Mefford Contracting/2.jpg",
+            "more": {
+                "location": "Lexington, KY",
+                "size": "100,000 sq ft",
+                "budget": "$10,000,000",
+                "images": [
+                    "/images/Projects _ Mefford Contracting/1.jpg",
+                    "/images/Projects _ Mefford Contracting/2.jpg",
+                    "/images/Projects _ Mefford Contracting/3.webp",
+                    "/images/Projects _ Mefford Contracting/4.jpg",
+                    "/images/Projects _ Mefford Contracting/5.jpg",
+                    "/images/Projects _ Mefford Contracting/6.jpg",
+                    "/images/Projects _ Mefford Contracting/7.jpg",
+                    "/images/Projects _ Mefford Contracting/8.jpg",
+                    "/images/Projects _ Mefford Contracting/9.jpg",
+                    "/images/Projects _ Mefford Contracting/10.jpg",
+                    "/images/Projects _ Mefford Contracting/11.jpg",
+                    "/images/Projects _ Mefford Contracting/12.jpg"
+                ]
+            }
         },
         {
             "id": 3,
@@ -26,13 +64,51 @@
                 "Commercial",
                 "Multi-Family"
             ],
-            "img": "/images/Projects _ Mefford Contracting/3.webp"
+            "img": "/images/Projects _ Mefford Contracting/3.webp",
+            "more": {
+                "location": "Lexington, KY",
+                "size": "100,000 sq ft",
+                "budget": "$10,000,000",
+                "images": [
+                    "/images/Projects _ Mefford Contracting/1.jpg",
+                    "/images/Projects _ Mefford Contracting/2.jpg",
+                    "/images/Projects _ Mefford Contracting/3.webp",
+                    "/images/Projects _ Mefford Contracting/4.jpg",
+                    "/images/Projects _ Mefford Contracting/5.jpg",
+                    "/images/Projects _ Mefford Contracting/6.jpg",
+                    "/images/Projects _ Mefford Contracting/7.jpg",
+                    "/images/Projects _ Mefford Contracting/8.jpg",
+                    "/images/Projects _ Mefford Contracting/9.jpg",
+                    "/images/Projects _ Mefford Contracting/10.jpg",
+                    "/images/Projects _ Mefford Contracting/11.jpg",
+                    "/images/Projects _ Mefford Contracting/12.jpg"
+                ]
+            }
         },
         {
             "id": 4,
             "name": "Growers",
             "category": ["Industrial"],
-            "img": "/images/Projects _ Mefford Contracting/4.jpg"
+            "img": "/images/Projects _ Mefford Contracting/4.jpg",
+            "more": {
+                "location": "Lexington, KY",
+                "size": "100,000 sq ft",
+                "budget": "$10,000,000",
+                "images": [
+                    "/images/Projects _ Mefford Contracting/1.jpg",
+                    "/images/Projects _ Mefford Contracting/2.jpg",
+                    "/images/Projects _ Mefford Contracting/3.webp",
+                    "/images/Projects _ Mefford Contracting/4.jpg",
+                    "/images/Projects _ Mefford Contracting/5.jpg",
+                    "/images/Projects _ Mefford Contracting/6.jpg",
+                    "/images/Projects _ Mefford Contracting/7.jpg",
+                    "/images/Projects _ Mefford Contracting/8.jpg",
+                    "/images/Projects _ Mefford Contracting/9.jpg",
+                    "/images/Projects _ Mefford Contracting/10.jpg",
+                    "/images/Projects _ Mefford Contracting/11.jpg",
+                    "/images/Projects _ Mefford Contracting/12.jpg"
+                ]
+            }
         },
         {
             "id": 5,
@@ -41,7 +117,26 @@
                 "Commercial",
                 "Multi-Family"
             ],
-            "img": "/images/Projects _ Mefford Contracting/5.jpg"
+            "img": "/images/Projects _ Mefford Contracting/5.jpg",
+            "more": {
+                "location": "Lexington, KY",
+                "size": "100,000 sq ft",
+                "budget": "$10,000,000",
+                "images": [
+                    "/images/Projects _ Mefford Contracting/1.jpg",
+                    "/images/Projects _ Mefford Contracting/2.jpg",
+                    "/images/Projects _ Mefford Contracting/3.webp",
+                    "/images/Projects _ Mefford Contracting/4.jpg",
+                    "/images/Projects _ Mefford Contracting/5.jpg",
+                    "/images/Projects _ Mefford Contracting/6.jpg",
+                    "/images/Projects _ Mefford Contracting/7.jpg",
+                    "/images/Projects _ Mefford Contracting/8.jpg",
+                    "/images/Projects _ Mefford Contracting/9.jpg",
+                    "/images/Projects _ Mefford Contracting/10.jpg",
+                    "/images/Projects _ Mefford Contracting/11.jpg",
+                    "/images/Projects _ Mefford Contracting/12.jpg"
+                ]
+            }
         },
         {
             "id": 6,
@@ -50,7 +145,26 @@
                 "Commercial",
                 "Offices"
             ],
-            "img": "/images/Projects _ Mefford Contracting/6.jpg"
+            "img": "/images/Projects _ Mefford Contracting/6.jpg",
+            "more": {
+                "location": "Lexington, KY",
+                "size": "100,000 sq ft",
+                "budget": "$10,000,000",
+                "images": [
+                    "/images/Projects _ Mefford Contracting/1.jpg",
+                    "/images/Projects _ Mefford Contracting/2.jpg",
+                    "/images/Projects _ Mefford Contracting/3.webp",
+                    "/images/Projects _ Mefford Contracting/4.jpg",
+                    "/images/Projects _ Mefford Contracting/5.jpg",
+                    "/images/Projects _ Mefford Contracting/6.jpg",
+                    "/images/Projects _ Mefford Contracting/7.jpg",
+                    "/images/Projects _ Mefford Contracting/8.jpg",
+                    "/images/Projects _ Mefford Contracting/9.jpg",
+                    "/images/Projects _ Mefford Contracting/10.jpg",
+                    "/images/Projects _ Mefford Contracting/11.jpg",
+                    "/images/Projects _ Mefford Contracting/12.jpg"
+                ]
+            }
         },
         {
             "id": 7,
@@ -59,13 +173,51 @@
                 "Commercial",
                 "Multi-Family"
             ],
-            "img": "/images/Projects _ Mefford Contracting/7.jpg"
+            "img": "/images/Projects _ Mefford Contracting/7.jpg",
+            "more": {
+                "location": "Lexington, KY",
+                "size": "100,000 sq ft",
+                "budget": "$10,000,000",
+                "images": [
+                    "/images/Projects _ Mefford Contracting/1.jpg",
+                    "/images/Projects _ Mefford Contracting/2.jpg",
+                    "/images/Projects _ Mefford Contracting/3.webp",
+                    "/images/Projects _ Mefford Contracting/4.jpg",
+                    "/images/Projects _ Mefford Contracting/5.jpg",
+                    "/images/Projects _ Mefford Contracting/6.jpg",
+                    "/images/Projects _ Mefford Contracting/7.jpg",
+                    "/images/Projects _ Mefford Contracting/8.jpg",
+                    "/images/Projects _ Mefford Contracting/9.jpg",
+                    "/images/Projects _ Mefford Contracting/10.jpg",
+                    "/images/Projects _ Mefford Contracting/11.jpg",
+                    "/images/Projects _ Mefford Contracting/12.jpg"
+                ]
+            }
         },
         {
             "id": 8,
             "name": "Growers",
             "category": ["Industrial","Hospitality"],
-            "img": "/images/Projects _ Mefford Contracting/8.jpg"
+            "img": "/images/Projects _ Mefford Contracting/8.jpg",
+            "more": {
+                "location": "Lexington, KY",
+                "size": "100,000 sq ft",
+                "budget": "$10,000,000",
+                "images": [
+                    "/images/Projects _ Mefford Contracting/1.jpg",
+                    "/images/Projects _ Mefford Contracting/2.jpg",
+                    "/images/Projects _ Mefford Contracting/3.webp",
+                    "/images/Projects _ Mefford Contracting/4.jpg",
+                    "/images/Projects _ Mefford Contracting/5.jpg",
+                    "/images/Projects _ Mefford Contracting/6.jpg",
+                    "/images/Projects _ Mefford Contracting/7.jpg",
+                    "/images/Projects _ Mefford Contracting/8.jpg",
+                    "/images/Projects _ Mefford Contracting/9.jpg",
+                    "/images/Projects _ Mefford Contracting/10.jpg",
+                    "/images/Projects _ Mefford Contracting/11.jpg",
+                    "/images/Projects _ Mefford Contracting/12.jpg"
+                ]
+            }
         },
         {
             "id": 9,
@@ -74,7 +226,26 @@
                 "Commercial",
                 "Multi-Family"
             ],
-            "img": "/images/Projects _ Mefford Contracting/9.jpg"
+            "img": "/images/Projects _ Mefford Contracting/9.jpg",
+            "more": {
+                "location": "Lexington, KY",
+                "size": "100,000 sq ft",
+                "budget": "$10,000,000",
+                "images": [
+                    "/images/Projects _ Mefford Contracting/1.jpg",
+                    "/images/Projects _ Mefford Contracting/2.jpg",
+                    "/images/Projects _ Mefford Contracting/3.webp",
+                    "/images/Projects _ Mefford Contracting/4.jpg",
+                    "/images/Projects _ Mefford Contracting/5.jpg",
+                    "/images/Projects _ Mefford Contracting/6.jpg",
+                    "/images/Projects _ Mefford Contracting/7.jpg",
+                    "/images/Projects _ Mefford Contracting/8.jpg",
+                    "/images/Projects _ Mefford Contracting/9.jpg",
+                    "/images/Projects _ Mefford Contracting/10.jpg",
+                    "/images/Projects _ Mefford Contracting/11.jpg",
+                    "/images/Projects _ Mefford Contracting/12.jpg"
+                ]
+            }
         },
         {
             "id": 10,
@@ -83,7 +254,26 @@
                 "Commercial",
                 "Offices"
             ],
-            "img": "/images/Projects _ Mefford Contracting/10.jpg"
+            "img": "/images/Projects _ Mefford Contracting/10.jpg",
+            "more": {
+                "location": "Lexington, KY",
+                "size": "100,000 sq ft",
+                "budget": "$10,000,000",
+                "images": [
+                    "/images/Projects _ Mefford Contracting/1.jpg",
+                    "/images/Projects _ Mefford Contracting/2.jpg",
+                    "/images/Projects _ Mefford Contracting/3.webp",
+                    "/images/Projects _ Mefford Contracting/4.jpg",
+                    "/images/Projects _ Mefford Contracting/5.jpg",
+                    "/images/Projects _ Mefford Contracting/6.jpg",
+                    "/images/Projects _ Mefford Contracting/7.jpg",
+                    "/images/Projects _ Mefford Contracting/8.jpg",
+                    "/images/Projects _ Mefford Contracting/9.jpg",
+                    "/images/Projects _ Mefford Contracting/10.jpg",
+                    "/images/Projects _ Mefford Contracting/11.jpg",
+                    "/images/Projects _ Mefford Contracting/12.jpg"
+                ]
+            }
         },
         {
             "id": 11,
@@ -93,13 +283,51 @@
                 "Multi-Family",
                 "Hospitality"
             ],
-            "img": "/images/Projects _ Mefford Contracting/11.jpg"
+            "img": "/images/Projects _ Mefford Contracting/11.jpg",
+            "more": {
+                "location": "Lexington, KY",
+                "size": "100,000 sq ft",
+                "budget": "$10,000,000",
+                "images": [
+                    "/images/Projects _ Mefford Contracting/1.jpg",
+                    "/images/Projects _ Mefford Contracting/2.jpg",
+                    "/images/Projects _ Mefford Contracting/3.webp",
+                    "/images/Projects _ Mefford Contracting/4.jpg",
+                    "/images/Projects _ Mefford Contracting/5.jpg",
+                    "/images/Projects _ Mefford Contracting/6.jpg",
+                    "/images/Projects _ Mefford Contracting/7.jpg",
+                    "/images/Projects _ Mefford Contracting/8.jpg",
+                    "/images/Projects _ Mefford Contracting/9.jpg",
+                    "/images/Projects _ Mefford Contracting/10.jpg",
+                    "/images/Projects _ Mefford Contracting/11.jpg",
+                    "/images/Projects _ Mefford Contracting/12.jpg"
+                ]
+            }
         },
         {
             "id": 12,
             "name": "Growers",
             "category": ["Industrial","Restaurant"],
-            "img": "/images/Projects _ Mefford Contracting/12.jpg"
+            "img": "/images/Projects _ Mefford Contracting/12.jpg",
+            "more": {
+                "location": "Lexington, KY",
+                "size": "100,000 sq ft",
+                "budget": "$10,000,000",
+                "images": [
+                    "/images/Projects _ Mefford Contracting/1.jpg",
+                    "/images/Projects _ Mefford Contracting/2.jpg",
+                    "/images/Projects _ Mefford Contracting/3.webp",
+                    "/images/Projects _ Mefford Contracting/4.jpg",
+                    "/images/Projects _ Mefford Contracting/5.jpg",
+                    "/images/Projects _ Mefford Contracting/6.jpg",
+                    "/images/Projects _ Mefford Contracting/7.jpg",
+                    "/images/Projects _ Mefford Contracting/8.jpg",
+                    "/images/Projects _ Mefford Contracting/9.jpg",
+                    "/images/Projects _ Mefford Contracting/10.jpg",
+                    "/images/Projects _ Mefford Contracting/11.jpg",
+                    "/images/Projects _ Mefford Contracting/12.jpg"
+                ]
+            }
         },
         {
             "id": 13,
@@ -108,7 +336,26 @@
                 "Commercial",
                 "Multi-Family"
             ],
-            "img": "/images/Projects _ Page 2 _ Mefford Contracting/1.jpg"
+            "img": "/images/Projects _ Page 2 _ Mefford Contracting/1.jpg",
+            "more": {
+                "location": "Lexington, KY",
+                "size": "100,000 sq ft",
+                "budget": "$10,000,000",
+                "images": [
+                    "/images/Projects _ Mefford Contracting/1.jpg",
+                    "/images/Projects _ Mefford Contracting/2.jpg",
+                    "/images/Projects _ Mefford Contracting/3.webp",
+                    "/images/Projects _ Mefford Contracting/4.jpg",
+                    "/images/Projects _ Mefford Contracting/5.jpg",
+                    "/images/Projects _ Mefford Contracting/6.jpg",
+                    "/images/Projects _ Mefford Contracting/7.jpg",
+                    "/images/Projects _ Mefford Contracting/8.jpg",
+                    "/images/Projects _ Mefford Contracting/9.jpg",
+                    "/images/Projects _ Mefford Contracting/10.jpg",
+                    "/images/Projects _ Mefford Contracting/11.jpg",
+                    "/images/Projects _ Mefford Contracting/12.jpg"
+                ]
+            }
         },
         {
             "id": 14,
@@ -117,7 +364,26 @@
                 "Commercial",
                 "Offices"
             ],
-            "img": "/images/Projects _ Page 2 _ Mefford Contracting/2.jpg"
+            "img": "/images/Projects _ Page 2 _ Mefford Contracting/2.jpg",
+            "more": {
+                "location": "Lexington, KY",
+                "size": "100,000 sq ft",
+                "budget": "$10,000,000",
+                "images": [
+                    "/images/Projects _ Mefford Contracting/1.jpg",
+                    "/images/Projects _ Mefford Contracting/2.jpg",
+                    "/images/Projects _ Mefford Contracting/3.webp",
+                    "/images/Projects _ Mefford Contracting/4.jpg",
+                    "/images/Projects _ Mefford Contracting/5.jpg",
+                    "/images/Projects _ Mefford Contracting/6.jpg",
+                    "/images/Projects _ Mefford Contracting/7.jpg",
+                    "/images/Projects _ Mefford Contracting/8.jpg",
+                    "/images/Projects _ Mefford Contracting/9.jpg",
+                    "/images/Projects _ Mefford Contracting/10.jpg",
+                    "/images/Projects _ Mefford Contracting/11.jpg",
+                    "/images/Projects _ Mefford Contracting/12.jpg"
+                ]
+            }
         },
         {
             "id": 15,
@@ -126,13 +392,51 @@
                 "Commercial",
                 "Multi-Family"
             ],
-            "img": "/images/Projects _ Page 2 _ Mefford Contracting/3.jpg"
+            "img": "/images/Projects _ Page 2 _ Mefford Contracting/3.webp",
+            "more": {
+                "location": "Lexington, KY",
+                "size": "100,000 sq ft",
+                "budget": "$10,000,000",
+                "images": [
+                    "/images/Projects _ Mefford Contracting/1.jpg",
+                    "/images/Projects _ Mefford Contracting/2.jpg",
+                    "/images/Projects _ Mefford Contracting/3.webp",
+                    "/images/Projects _ Mefford Contracting/4.jpg",
+                    "/images/Projects _ Mefford Contracting/5.jpg",
+                    "/images/Projects _ Mefford Contracting/6.jpg",
+                    "/images/Projects _ Mefford Contracting/7.jpg",
+                    "/images/Projects _ Mefford Contracting/8.jpg",
+                    "/images/Projects _ Mefford Contracting/9.jpg",
+                    "/images/Projects _ Mefford Contracting/10.jpg",
+                    "/images/Projects _ Mefford Contracting/11.jpg",
+                    "/images/Projects _ Mefford Contracting/12.jpg"
+                ]
+            }
         },
         {
             "id": 16,
             "name": "Growers",
             "category": ["Industrial"],
-            "img": "/images/Projects _ Page 2 _ Mefford Contracting/4.jpg"
+            "img": "/images/Projects _ Page 2 _ Mefford Contracting/4.jpg",
+            "more": {
+                "location": "Lexington, KY",
+                "size": "100,000 sq ft",
+                "budget": "$10,000,000",
+                "images": [
+                    "/images/Projects _ Mefford Contracting/1.jpg",
+                    "/images/Projects _ Mefford Contracting/2.jpg",
+                    "/images/Projects _ Mefford Contracting/3.webp",
+                    "/images/Projects _ Mefford Contracting/4.jpg",
+                    "/images/Projects _ Mefford Contracting/5.jpg",
+                    "/images/Projects _ Mefford Contracting/6.jpg",
+                    "/images/Projects _ Mefford Contracting/7.jpg",
+                    "/images/Projects _ Mefford Contracting/8.jpg",
+                    "/images/Projects _ Mefford Contracting/9.jpg",
+                    "/images/Projects _ Mefford Contracting/10.jpg",
+                    "/images/Projects _ Mefford Contracting/11.jpg",
+                    "/images/Projects _ Mefford Contracting/12.jpg"
+                ]
+            }
         },
         {
             "id": 17,
@@ -141,7 +445,26 @@
                 "Commercial",
                 "Multi-Family"
             ],
-            "img": "/images/Projects _ Page 2 _ Mefford Contracting/5.jpg"
+            "img": "/images/Projects _ Page 2 _ Mefford Contracting/5.jpg",
+            "more": {
+                "location": "Lexington, KY",
+                "size": "100,000 sq ft",
+                "budget": "$10,000,000",
+                "images": [
+                    "/images/Projects _ Mefford Contracting/1.jpg",
+                    "/images/Projects _ Mefford Contracting/2.jpg",
+                    "/images/Projects _ Mefford Contracting/3.webp",
+                    "/images/Projects _ Mefford Contracting/4.jpg",
+                    "/images/Projects _ Mefford Contracting/5.jpg",
+                    "/images/Projects _ Mefford Contracting/6.jpg",
+                    "/images/Projects _ Mefford Contracting/7.jpg",
+                    "/images/Projects _ Mefford Contracting/8.jpg",
+                    "/images/Projects _ Mefford Contracting/9.jpg",
+                    "/images/Projects _ Mefford Contracting/10.jpg",
+                    "/images/Projects _ Mefford Contracting/11.jpg",
+                    "/images/Projects _ Mefford Contracting/12.jpg"
+                ]
+            }
         },
         {
             "id": 18,
@@ -150,7 +473,26 @@
                 "Commercial",
                 "Offices"
             ],
-            "img": "/images/Projects _ Page 2 _ Mefford Contracting/6.jpg"
+            "img": "/images/Projects _ Page 2 _ Mefford Contracting/6.jpg",
+            "more": {
+                "location": "Lexington, KY",
+                "size": "100,000 sq ft",
+                "budget": "$10,000,000",
+                "images": [
+                    "/images/Projects _ Mefford Contracting/1.jpg",
+                    "/images/Projects _ Mefford Contracting/2.jpg",
+                    "/images/Projects _ Mefford Contracting/3.webp",
+                    "/images/Projects _ Mefford Contracting/4.jpg",
+                    "/images/Projects _ Mefford Contracting/5.jpg",
+                    "/images/Projects _ Mefford Contracting/6.jpg",
+                    "/images/Projects _ Mefford Contracting/7.jpg",
+                    "/images/Projects _ Mefford Contracting/8.jpg",
+                    "/images/Projects _ Mefford Contracting/9.jpg",
+                    "/images/Projects _ Mefford Contracting/10.jpg",
+                    "/images/Projects _ Mefford Contracting/11.jpg",
+                    "/images/Projects _ Mefford Contracting/12.jpg"
+                ]
+            }
         },
         {
             "id": 19,
@@ -159,13 +501,51 @@
                 "Commercial",
                 "Multi-Family"
             ],
-            "img": "/images/Projects _ Page 2 _ Mefford Contracting/7.jpg"
+            "img": "/images/Projects _ Page 2 _ Mefford Contracting/7.jpg",
+            "more": {
+                "location": "Lexington, KY",
+                "size": "100,000 sq ft",
+                "budget": "$10,000,000",
+                "images": [
+                    "/images/Projects _ Mefford Contracting/1.jpg",
+                    "/images/Projects _ Mefford Contracting/2.jpg",
+                    "/images/Projects _ Mefford Contracting/3.webp",
+                    "/images/Projects _ Mefford Contracting/4.jpg",
+                    "/images/Projects _ Mefford Contracting/5.jpg",
+                    "/images/Projects _ Mefford Contracting/6.jpg",
+                    "/images/Projects _ Mefford Contracting/7.jpg",
+                    "/images/Projects _ Mefford Contracting/8.jpg",
+                    "/images/Projects _ Mefford Contracting/9.jpg",
+                    "/images/Projects _ Mefford Contracting/10.jpg",
+                    "/images/Projects _ Mefford Contracting/11.jpg",
+                    "/images/Projects _ Mefford Contracting/12.jpg"
+                ]
+            }
         },
         {
             "id": 20,
             "name": "Growers",
             "category": ["Industrial"],
-            "img": "/images/Projects _ Page 2 _ Mefford Contracting/8.jpg"
+            "img": "/images/Projects _ Page 2 _ Mefford Contracting/8.jpg",
+            "more": {
+                "location": "Lexington, KY",
+                "size": "100,000 sq ft",
+                "budget": "$10,000,000",
+                "images": [
+                    "/images/Projects _ Mefford Contracting/1.jpg",
+                    "/images/Projects _ Mefford Contracting/2.jpg",
+                    "/images/Projects _ Mefford Contracting/3.webp",
+                    "/images/Projects _ Mefford Contracting/4.jpg",
+                    "/images/Projects _ Mefford Contracting/5.jpg",
+                    "/images/Projects _ Mefford Contracting/6.jpg",
+                    "/images/Projects _ Mefford Contracting/7.jpg",
+                    "/images/Projects _ Mefford Contracting/8.jpg",
+                    "/images/Projects _ Mefford Contracting/9.jpg",
+                    "/images/Projects _ Mefford Contracting/10.jpg",
+                    "/images/Projects _ Mefford Contracting/11.jpg",
+                    "/images/Projects _ Mefford Contracting/12.jpg"
+                ]
+            }
         },
         {
             "id": 21,
@@ -174,7 +554,26 @@
                 "Commercial",
                 "Multi-Family"
             ],
-            "img": "/images/Projects _ Page 2 _ Mefford Contracting/9.jpg"
+            "img": "/images/Projects _ Page 2 _ Mefford Contracting/9.jpg",
+            "more": {
+                "location": "Lexington, KY",
+                "size": "100,000 sq ft",
+                "budget": "$10,000,000",
+                "images": [
+                    "/images/Projects _ Mefford Contracting/1.jpg",
+                    "/images/Projects _ Mefford Contracting/2.jpg",
+                    "/images/Projects _ Mefford Contracting/3.webp",
+                    "/images/Projects _ Mefford Contracting/4.jpg",
+                    "/images/Projects _ Mefford Contracting/5.jpg",
+                    "/images/Projects _ Mefford Contracting/6.jpg",
+                    "/images/Projects _ Mefford Contracting/7.jpg",
+                    "/images/Projects _ Mefford Contracting/8.jpg",
+                    "/images/Projects _ Mefford Contracting/9.jpg",
+                    "/images/Projects _ Mefford Contracting/10.jpg",
+                    "/images/Projects _ Mefford Contracting/11.jpg",
+                    "/images/Projects _ Mefford Contracting/12.jpg"
+                ]
+            }
         },
         {
             "id": 22,
@@ -183,22 +582,26 @@
                 "Commercial",
                 "Offices"
             ],
-            "img": "/images/Projects _ Page 2 _ Mefford Contracting/10.jpg"
-        },
-        {
-            "id": 23,
-            "name": "North Limestone Apartments",
-            "category": [
-                "Commercial",
-                "Multi-Family"
-            ],
-            "img": "/images/Projects _ Page 2 _ Mefford Contracting/11.jpg"
-        },
-        {
-            "id": 24,
-            "name": "Growers",
-            "category": ["Industrial"],
-            "img": "/images/Projects _ Page 2 _ Mefford Contracting/12.jpg"
+            "img": "/images/Projects _ Page 2 _ Mefford Contracting/10.jpg",
+            "more": {
+                "location": "Lexington, KY",
+                "size": "100,000 sq ft",
+                "budget": "$10,000,000",
+                "images": [
+                    "/images/Projects _ Mefford Contracting/1.jpg",
+                    "/images/Projects _ Mefford Contracting/2.jpg",
+                    "/images/Projects _ Mefford Contracting/3.webp",
+                    "/images/Projects _ Mefford Contracting/4.jpg",
+                    "/images/Projects _ Mefford Contracting/5.jpg",
+                    "/images/Projects _ Mefford Contracting/6.jpg",
+                    "/images/Projects _ Mefford Contracting/7.jpg",
+                    "/images/Projects _ Mefford Contracting/8.jpg",
+                    "/images/Projects _ Mefford Contracting/9.jpg",
+                    "/images/Projects _ Mefford Contracting/10.jpg",
+                    "/images/Projects _ Mefford Contracting/11.jpg",
+                    "/images/Projects _ Mefford Contracting/12.jpg"
+                ]
+            }
         }
     ],
     "categories": [

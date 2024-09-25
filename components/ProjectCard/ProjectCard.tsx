@@ -1,4 +1,5 @@
 'use client';
+import Link from "next/link";
 import { useEffect } from "react";
 import { useState } from "react";
 
@@ -18,7 +19,8 @@ interface Params {
 export default function ProjectCard({params}:{params:Params}) {
     const [content, setContent] = useState<JSX.Element>();
     useEffect(() => {
-        const contentpart = <div className={params.project.id%2==0?"animate-fadein transform hover:scale-110 flex flex-col mx-auto md:flex-row w-4/5 h-[55vh] md:h-full justify-center items-center bg-[#f9f9f9] my-10 text-center":"animate-fadein transform hover:scale-110 flex flex-col mx-auto md:flex-row-reverse w-4/5 h-[55vh] md:h-full justify-center items-center bg-[#f9f9f9] my-10 text-center"}>
+        let linkhref = "/project/"+params.project.id;
+        const contentpart =<Link href={linkhref}><div className={params.project.id%2==0?"class_fadein transform hover:scale-110 flex flex-col mx-auto md:flex-row w-4/5 h-[55vh] md:h-full justify-center items-center bg-[#f9f9f9] my-10 text-center":"class_fadein transform hover:scale-110 flex flex-col mx-auto md:flex-row-reverse w-4/5 h-[55vh] md:h-full justify-center items-center bg-[#f9f9f9] my-10 text-center"}>
             <img className='w-full md:w-1/2' src={params.project.img} alt={params.project.name} />
             <div className='flex flex-col w-full justify-evenly h-full mx-auto'>
                 <h1 className='w-full mx-auto text-2xl font-bold leading-7 decoration-solid'>
@@ -29,7 +31,7 @@ export default function ProjectCard({params}:{params:Params}) {
                 </p>
             </div>
             
-        </div>;
+        </div></Link>;
         if(params.showcategory!="All" && !params.project.category.includes(params.showcategory)){
             setContent(<></>);
         }else if(params.pageno=="1" && params.project.id<=12 && params.project.category.includes(params.showcategory)){

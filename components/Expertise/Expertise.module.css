@@ -1,23 +1,51 @@
 @keyframes spring {
     0%{
-        width: 0;
+        width: 0ch;
     }
-    25%{
-        width: calc(min-content/2);
-    }
+    /* 25%{
+        width: 2ch;
+    } */
     50%{
-        width: min-content;
+        width: 4ch;
     }
-    75%{
-        width: calc(min-content/2);
-    }
+    /* 75%{
+        width: 2ch;
+    } */
     100%{
-        width: 0;
+        width: 0ch;
     }
 }
 
-.animatespring {
+.animatespring4 {
     overflow: hidden;
-    animation: spring 2s linear infinite;
+    position: relative;
+    display: inline-block;
+    animation: infinite 6s spring ease-in-out;
+    border-right: 1px solid white;
+}
+
+@keyframes spring7 {
+    0%{
+        width: 0ch;
+    }
+    /* 25%{
+        width: 4ch;
+    } */
+    50%{
+        width: 7ch;
+    }
+    /* 75%{
+        width: 4ch;
+    } */
+    100%{
+        width: 0ch;
+    }
+}
+
+.animatespring7{
+    overflow: hidden;
+    position: relative;
+    display: inline-block;
+    animation: infinite 6s spring7 ease-in-out;
     border-right: 1px solid white;
 }

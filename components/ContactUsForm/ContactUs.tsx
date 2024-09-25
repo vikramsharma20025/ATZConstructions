@@ -1,6 +1,7 @@
 'use client';
 import React from 'react'
 import { useState } from 'react';
+// import CommitedToSafety from '../CommitedToSafety/CommitedToSafety';
 
 interface FormData {
     firstName: string;
@@ -86,6 +87,7 @@ function Contact_us() {
                     <button type='submit' className='w-full md:w-1/2 bg-[#922f25] text-white font-bold text-lg py-2 rounded-lg hover:bg-black'>Submit Your Request</button>
                 </div>
             </form>
+            {/* <CommitedToSafety /> */}
         </>
     )
 }

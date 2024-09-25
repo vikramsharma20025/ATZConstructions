@@ -2,14 +2,14 @@
 import { NextRequest, NextResponse } from "next/server";
 
 export async function POST(req: Request) {
-    console.log("this has started");
+    // console.log("this has started");
     const data = await req.formData();
     // const data = {};
-    console.log(data.get("firstname"));
-    console.log(data.get("lastname"));
-    console.log(data.get("email"));
-    console.log(data.get("phone"));
-    console.log(data.get("message"));
+    // console.log(data.get("firstname"));
+    // console.log(data.get("lastname"));
+    // console.log(data.get("email"));
+    // console.log(data.get("phone"));
+    // console.log(data.get("message"));
     
     // return data;
     // console.log(data);

@@ -1,10 +1,27 @@
 'use client';
-import React, { useState } from 'react';
+import React, { useEffect, useState } from 'react';
 import { Button } from 'antd';
 import data from '@/utils/teamsdata/teams.json';
 
+interface Personal {
+    id: number;
+    name: string;
+    designation: string;
+    img: string;
+    email: string;
+}
+
 export default function Team() {
-    const personals = data.data;
+    const [personals,setPersonals] = useState<Personal[]>();
+    useEffect(() => {
+        async function GetData() {
+            const res = await fetch('/api/team');
+            const {content}= await res.json();
+            console.log(content);
+            setPersonals(JSON.parse(content));
+        }
+        GetData();
+    }, []);
     return (
         <div className='bg-[#f9f9f9]'>
             <div className='w-4/5 h-[50vh] mx-auto flex flex-col justify-evenly items-center mt-16'>
@@ -21,7 +38,7 @@ export default function Team() {
                 </Button>
             </div>
             <div className='md:grid md:grid-cols-4 w-full md:px-14 md:mt-[-30px] md:pb-16 mx-auto'>
-                {personals.map((personal,index) => (
+                {personals?.map((personal,index) => (
                     <div key={personal.id} className='w-4/5 md:max-w-fit mx-auto my-5 h-fit text-center rounded-b-xl bg-white'>
                         <img className='w-full' src={personal.img} alt={personal.name} />
                         <div className='flex flex-col justify-evenly h-full'>
