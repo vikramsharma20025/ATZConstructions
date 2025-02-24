@@ -40,7 +40,7 @@ function BottomBar() {
                     </div>
                 </div>
                 <div className='w-11/12 mx-auto text-sm flex flex-col my-auto justify-center'>
-                    <span>© Copyright 2012 - 2024 | Mefford Contracting<br className='md:hidden' /> | All Rights Reserved 
+                    <span>© Copyright 2012 - 2024 | ATZ Constructions<br className='md:hidden' /> | All Rights Reserved 
                         {/* | Powered by */}
                         </span>
                 </div>

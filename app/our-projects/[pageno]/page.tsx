@@ -49,7 +49,7 @@ export default function OurProjects({params}:{params:{pageno:string}}) {
 
                 </div>
                 <p className="px-3 w-2/3 text-base font-normal text-center leading-8 tracking-wide">
-                    The A73 Studio team of experienced project managers, contractors and skilled laborers are here to help you realize your dream. We’ll partner with you to build something that lasts.
+                    The ATZ Constructions team of experienced project managers, contractors and skilled laborers are here to help you realize your dream. We’ll partner with you to build something that lasts.
                 </p>
             </div>
             <div className="flex flex-col w-4/5">

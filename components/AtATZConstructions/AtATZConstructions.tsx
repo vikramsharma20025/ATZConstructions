@@ -6,7 +6,7 @@ function AtA73Studio() {
         <div className='flex flex-col justify-center items-center w-full mx-auto'>
             <div className='h-screen flex flex-col justify-around items-center'>
                 <h1 className='leading-3'>
-                    AT A73 STUDIO
+                    AT ATZ Constructions
                 </h1>
                 <h1 className='font-sans capitalize text-4xl font-bold w-3/4 leading-[48px] text-center items-center -mt-28'>
                     We Partner With You To Make Your Dream a Reality
@@ -24,7 +24,7 @@ function AtA73Studio() {
                     We’re in it for the long haul and want to build lasting relationships. We stand behind our work and will be there with you throughout the entire construction process and beyond.
                 <br /><br /></p>
                 <p className='h-min text-center w-10/12'>
-                    At Mefford, we invest in people not projects.
+                    At ATZ Constructions, we invest in people not projects.
                 <br /><br /></p>
             </div>
         </div>

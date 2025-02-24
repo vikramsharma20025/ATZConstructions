@@ -27,7 +27,7 @@ function Expertise() {
             </div>
             <div className='md:w-4/5 mx-auto'>
                 <p className='text-base font-bold leading-loose md:w-2/3 '>
-                    With decades of experience, the team at Mefford Contracting is ready to assist with any and all of your building needs. For Michigan, Indiana, Ohio, Kentucky, and beyond  we offer commercial and industrial construction, and design-build services, with a clear focus on safety, quality, and your satisfaction.
+                    With decades of experience, the team at ATZ Constructions is ready to assist with any and all of your building needs. For Michigan, Indiana, Ohio, Kentucky, and beyond  we offer commercial and industrial construction, and design-build services, with a clear focus on safety, quality, and your satisfaction.
                 </p>
             </div>
         </div>

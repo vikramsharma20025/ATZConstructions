@@ -13,7 +13,7 @@ function CommitedToSafety() {
                     </h1>
                     <div className='border md:border-2 border-common-red w-1/3 mb-10'></div>
                     <p className='mb-5 text-base font-normal leading-8'>
-                        At Mefford Con. we know accidents happen but no lost time accidents have occurred on our job sites. Learn more on how we protect you, our employees and sub-contractors. 
+                        At ATZ Constructions we know accidents happen but no lost time accidents have occurred on our job sites. Learn more on how we protect you, our employees and sub-contractors. 
                     </p>
                     <p className='text-base font-normal leading-8'>
                         Pre certified and Registered with both Avetta® and ISNetworld® and with full time safety representation on staff.

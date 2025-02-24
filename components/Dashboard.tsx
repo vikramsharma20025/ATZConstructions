@@ -1,7 +1,7 @@
 import React from 'react'
 import Expertise from './Expertise/Expertise'
 import Services from './Services/Services'
-import AtA73Studio from './AtA73Studio/AtA73Studio'
+import AtA73Studio from './AtATZConstructions/AtATZConstructions'
 import CommitedToSafety from './CommitedToSafety/CommitedToSafety'
 import FeaturedProject from './FeaturesProject/FeaturedProject'
 
