@@ -7,7 +7,7 @@ import FeaturedProject from './FeaturesProject/FeaturedProject'
 
 const Dashboard = () => {
 	return (
-		<div className='border border-black h-full w-full'>
+		<div className='h-full w-full'>
 			<Expertise />
 			<Services />
 			<AtA73Studio />

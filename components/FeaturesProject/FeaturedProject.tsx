@@ -55,7 +55,7 @@ function FeaturedProject() {
     , []);
     const [project, setProject] = useState<Project>({id:0,name:"",desc:"",category:[],img:"",more:{location:"",size:"",budget:"",images:[]}});
     return (
-        <div className='flex flex-col-reverse w-10/12 mx-auto mt-16'>
+        <div className='flex flex-col-reverse w-10/12 mx-auto mt-16 hidden'>
             <div>
                 <h1 className='uppercase font-semibold text-xs leading-4 -tracking-tighter mt-24 mb-8'>featured project</h1>
                 <h1 className='font-bold text-4xl'>{project.name}</h1>

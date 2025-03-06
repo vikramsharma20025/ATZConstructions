@@ -22,7 +22,7 @@ function Expertise() {
                         }}
                         />
             </h1>
-            <div className='w-9/12 mx-auto h-1 border border-black'>
+            <div className='w-9/12 mx-auto h-1'>
                 <span className='border-2 border-red-800 flex flex-row h-full w-1/4 md:mr-auto md:w-1/12'></span>
             </div>
             <div className='md:w-4/5 mx-auto'>

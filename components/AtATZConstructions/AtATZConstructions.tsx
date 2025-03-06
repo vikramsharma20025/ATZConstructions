@@ -13,7 +13,7 @@ function AtA73Studio() {
                 </h1>
                 <span className='border-2 border-red-800 w-1/3 -mt-28'></span>
             </div>
-            <div className='flex flex-col items-center border'>
+            <div className='flex flex-col items-center'>
                 <p className='h-min text-center w-10/12 leading-8'>
                     Backed by decades of experience and industry knowledge we’ll be your construction partner. As experts in commercial and industrial construction, we’ll give you an honest project assessment and help fix any problems before construction begins saving valuable time and resources.
                 <br /><br /></p>
